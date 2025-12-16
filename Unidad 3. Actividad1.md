@@ -12,3 +12,7 @@
 fdasfdasklfjdsk
 
 <img width="756" height="450" alt="image" src="https://github.com/user-attachments/assets/a6c006b6-eed2-4a9d-8c2a-3ef657147fa7" />
+
+```
+\>cd is
+```
